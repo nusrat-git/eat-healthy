@@ -1,3 +1,6 @@
+.start{
+    margin-bottom: 60px;
+}
 .flexible{
     display: flex;
 }
@@ -21,11 +24,34 @@ span{
     color: gray;
 }
 .link{
+    font-family: 'Montserrat', sans-serif;
     text-decoration: none;
     background-image: linear-gradient(orange, tomato);
     color: white;
     box-sizing: border-box;
     padding: 15px 20px;
     border-radius: 20px;
-    font-weight: 800;
+    font-weight: 400;
+}
+.about{
+    background-image: url(images/shapes/Frame\ 58.jpg);
+    background-repeat: no-repeat;
+    height: 500px ;
+}
+.left{
+    margin-top: 110px;
+    margin-right: 40px;
+}
+.img-2 img{
+    margin-top: 115px;
+}
+.hsize2{
+    font-size: 50px;
+    font-family: 'Montserrat', sans-serif;
+    color: gray;
+}
+.psize2{
+    font-size: 20px;
+    font-family: 'Montserrat', sans-serif;
+    color: black;
 }
