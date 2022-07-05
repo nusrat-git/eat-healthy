@@ -1,0 +1,31 @@
+.flexible{
+    display: flex;
+}
+.space{
+    width: 60%;
+}
+.adjust{
+    margin-top: 10%;
+    margin-left: 6%;
+}
+span{
+    color: orange;
+}
+.hsize{
+    font-size: 50px;
+    font-family: 'Montserrat', sans-serif;
+}
+.psize{
+    font-size: 20px;
+    font-family: 'Montserrat', sans-serif;
+    color: gray;
+}
+.link{
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    color: white;
+    box-sizing: border-box;
+    padding: 15px 20px;
+    border-radius: 20px;
+    font-weight: 800;
+}
