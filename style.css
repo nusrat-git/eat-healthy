@@ -55,3 +55,51 @@ span{
     font-family: 'Montserrat', sans-serif;
     color: black;
 }
+.recipie{
+    text-align: center;
+    margin-top: 80px;
+}
+.hsize3{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 50px;
+    color: gray;
+}
+.psize3{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+}
+.hsize4{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 40px;
+}
+.psize4{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: black;
+}
+.sizing{
+    margin: 100px
+}
+.pasta img{
+    width: 100%;
+}
+.salad img{
+    width: 100%;
+}
+.pasta{
+    border-radius: 20px;
+    padding: 20px;
+    box-shadow: 5px 7px 40px gray;
+    margin-right: 10px;
+    margin-bottom: 200px;
+    display: block;
+    width: 50%;
+}
+.salad{
+    border-radius: 20px;
+    padding: 20px;
+    box-shadow: 5px 7px 40px gray;
+    margin-left: 10px;
+    margin-bottom: 200px;
+    display: block;
+    width: 50%;
+}
