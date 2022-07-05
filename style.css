@@ -43,11 +43,15 @@ body{
     height: 500px ;
 }
 .left{
-    margin-top: 110px;
+    margin-top: 60px;
     margin-right: 40px;
 }
 .img-2 img{
-    margin-top: 115px;
+    margin-top: 55px;
+    height: 90%;
+}
+.pad{
+    padding-left: 100px;
 }
 .hsize2{
     font-size: 50px;
